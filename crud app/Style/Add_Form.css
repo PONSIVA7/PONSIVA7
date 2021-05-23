@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+#topbar{
+	margin-top:-20px;
+	width:100%;
+	height:50px;
+	background:url(../Images/Topbar1.png) repeat-x;
+}
+
+#form{
+	border:5px #00F double;
+	border-radius:10px;
+	margin-top:60px;
+	padding:20px;
+	width:400px;
+	height:348px;
+	background-color:#CCC;	
+	margin-left:460px;
+}
+table{
+	margin:auto;
+	padding:5px;
+	background-color:#FFF;	
+	border-radius:5px;	
+	box-shadow:3px 3px 9px #999;
+}
+th{
+	text-align:left;	
+}
+input, select{
+	height:30px;
+}
+input{
+	width:170px;	
+}
+input:focus{
+	background-color:#9FF;	
+}
+textarea:focus{
+	background-color:#9FF;
+}
+select:focus{
+	background-color:#9FF;
+}
+.img{
+	position:absolute;
+	width:350px;
+	height:370px;
+	margin-left:130px;
+	margin-top:135px;
+	z-index:15;
+	float:left;
+}
+.ii{
+	float:right;
+	position:absolute;
+	width:130px;
+	height:100px;
+	margin-left:815px;
+	margin-top:93px;
+	z-index:20;
+}
