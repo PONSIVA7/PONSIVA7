@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 80%;
+    height: auto;
+    margin: 50px;
+}
+div{
+    width: 100px;
+    height: 70px;
+    padding: 10px;
+}
+.pull-left{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
